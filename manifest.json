@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "Tab Suspender",
+  "version": "1.0",
+  "homepage_url": "",
+  "description": "Save resources by suspending unused tabs after 20 min.",
+
+  "icons": {
+    "48": "icons/tabsuspender-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "js": ["main.js"]
+    }
+  ]
+
+}
+
