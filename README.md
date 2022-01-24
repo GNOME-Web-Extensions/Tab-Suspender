@@ -1,6 +1,6 @@
 # Tab Suspender [WIP]
 
-#### Force dark mode for all web pages.
+#### Save resources by suspending unused tabs after 20 min.
 
 ### Instalation
 
